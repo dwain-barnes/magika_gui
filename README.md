@@ -26,3 +26,5 @@ To use Magika GUI, you need to have Python installed on your system. It's recomm
 ```bash
 pip install -r requirements.txt
 
+Run the application:
+python magika_gui.py
