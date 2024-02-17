@@ -4,7 +4,7 @@ Magika GUI is a simple user-friendly interface for interacting with the Magika C
 
 Here's a screenshot of the GUI in action:
 
-[GUI Example](/assets/screenshot.png)
+![GUI Example](/assets/screenshot.png)
 
 
 ## Features
