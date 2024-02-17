@@ -29,3 +29,36 @@ pip install -r requirements.txt
 Run the application:
 ```bash
 python magika_gui.py
+```
+
+## Usage
+
+1. Start the application using the command mentioned above.
+2. Use the "Browse" button to select the file or directory you want to analyze.
+3. Choose your desired options.
+4. Click "Run Magika" to start the analysis.
+5. After the analysis is complete, you can save the output using the "Save Output" button.
+
+## License
+
+This project is open-sourced under the MIT License. See the LICENSE file for more details.
+
+## Contributions
+
+Contributions are welcome! Please open an issue or submit a pull request for any bugs, features, or improvements.
+
+## Contact
+
+For any queries, please reach out to [queries@eryrilabs.com](mailto:queries@eryrilabs.com).
+
+## Additional Information 
+
+This is a GUI for Magika. For more inforamtion on Magika visit https://github.com/google/magika
+
+```bibtex
+@software{magika,
+  author = {Fratantonio, Yanick and Bursztein, Elie and Invernizzi, Luca and Zhang, Marina and Metitieri, Giancarlo and Kurt, Thomas and Galilee, Francois and Petit-Bianco, Alexandre and Farah, Loua and Albertini, Ange},
+  title = {{Magika content-type scanner}},
+  url = {https://github.com/google/magika}
+}
+
