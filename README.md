@@ -53,7 +53,7 @@ For any queries, please reach out to [queries@eryrilabs.com](mailto:queries@eryr
 
 ## Additional Information 
 
-This is a GUI for Magika. For more inforamtion on Magika visit https://github.com/google/magika
+This is a GUI for Magika. For more information on Magika visit https://github.com/google/magika
 
 ```bibtex
 @software{magika,
